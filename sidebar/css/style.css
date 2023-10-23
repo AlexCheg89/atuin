@@ -1,0 +1,15 @@
+#side-checkbox {
+  display: none;
+}
+
+.side-panel {
+  position: fixed;
+  z-index: 999999;
+  top: 0;
+  left: 0;
+  background: #337ab7;
+  transition: all 0.5s;
+  width: 320px;
+  height: 100vh;
+  box-shadow: 10px 0 20px rgba(0, 0, 0, 0.4);
+}/*# sourceMappingURL=style.css.map */
